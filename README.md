@@ -57,4 +57,4 @@ To make changes to the website:
 
 ## License
 
-All rights reserved © CheapMedCards 
+All rights reserved © DevendraPali  
